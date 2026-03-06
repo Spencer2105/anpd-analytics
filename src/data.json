@@ -1,0 +1,2884 @@
+
+[
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1254-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "105-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-04-21",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA DE CRÉDITOS SANTANDER CONSUMO PERÚ",
+      "nombre_comercial": "EMPRESA",
+      "ruc": "20491823741",
+      "sector": "Banca"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin el consentimiento libre, previo, informado, expreso e inequívoco",
+      "base_legal": "Artículos 13.5 y 18 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 12.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1139-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "093-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-04-09",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "BANCO INTERNACIONAL DEL PERÚ S.A.A.",
+      "nombre_comercial": "BANCO",
+      "ruc": "20875421093",
+      "sector": "Banca"
+    },
+    "analisis_legal": {
+      "infraccion": "Incumplimiento del deber de seguridad en el tratamiento de datos personales",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 25.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.5,
+      "multa_final_uit": 12.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1254-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "105-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-04-21",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA DE CRÉDITOS SANTANDER CONSUMO PERÚ",
+      "nombre_comercial": "EMPRESA",
+      "ruc": "20650385840",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin el consentimiento libre, previo, informado, expreso e inequívoco",
+      "base_legal": "Artículos 13.5 y 18 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.5,
+      "multa_final_uit": 7.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1139-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "093-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-04-09",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "BANCO INTERNACIONAL DEL PERÚ S.A.A.",
+      "nombre_comercial": "BANCO",
+      "ruc": "20588991056",
+      "sector": "Banca"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin el consentimiento libre, previo, informado, expreso e inequívoco",
+      "base_legal": "Artículos 13.5 y 18 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1,
+      "multa_final_uit": 15.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión administrativa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "4362-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "125-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-04-07",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "MUNICIPALIDAD DISTRITAL DE MIRAFLORES",
+      "nombre_comercial": "MUNICIPALIDAD",
+      "ruc": "20373970145",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No atender de forma oportuna o denegar injustificadamente las solicitudes de ejercicio de derechos ARCO",
+      "base_legal": "Artículo 24 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 5.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 3.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1083-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "091-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-04-04",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "ALFIN BANCO S.A.",
+      "nombre_comercial": "ALFIN",
+      "ruc": "20665250478",
+      "sector": "Banca"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia internacional de datos personales sin las garantías adecuadas",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 20.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 14.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "798-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "088-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-03-25",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "AMÉRICA MÓVIL PERÚ S.A.C.",
+      "nombre_comercial": "AMÉRICA",
+      "ruc": "20325512726",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No atender de forma oportuna o denegar injustificadamente las solicitudes de ejercicio de derechos ARCO",
+      "base_legal": "Artículo 24 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 5.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1,
+      "multa_final_uit": 5.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "4087-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "028-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-03-25",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "SOCIEDAD HOTELERA DEL SUR",
+      "nombre_comercial": "SOCIEDAD",
+      "ruc": "20982393620",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscribir el banco de datos personales ante el Registro Nacional de Protección de Datos Personales",
+      "base_legal": "Artículo 31 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 2.4
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "4646-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "036-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-03-24",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "CPR JOYAS Y RELOJES",
+      "nombre_comercial": "CPR",
+      "ruc": "20697784918",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia internacional de datos personales sin las garantías adecuadas",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 20.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.9,
+      "multa_final_uit": 18.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "790-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "095-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-03-18",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "INDECOPI",
+      "nombre_comercial": "INDECOPI",
+      "ruc": "20805621324",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Incumplimiento del deber de seguridad en el tratamiento de datos personales",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 25.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.5,
+      "multa_final_uit": 12.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión administrativa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "4325-2021-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "024-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-03-11",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "NEW HORIZONS S.A.",
+      "nombre_comercial": "NEW",
+      "ruc": "20245534222",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia internacional de datos personales sin las garantías adecuadas",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 20.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 16.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "662-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "080-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-02-28",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "MOTORLINK S.A.C.",
+      "nombre_comercial": "MOTORLINK",
+      "ruc": "20627673786",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Incumplimiento del deber de seguridad en el tratamiento de datos personales",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 25.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 20.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "3285-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "163-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-02-13",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "ZETA GAS ANDINO S.A.",
+      "nombre_comercial": "ZETA",
+      "ruc": "20644176842",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Incumplimiento del deber de seguridad en el tratamiento de datos personales",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 25.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 20.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "2576-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "009-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-02-10",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "INSTITUTO NACIONAL DE SALUD DEL NIÑO SAN BORJA",
+      "nombre_comercial": "INSTITUTO",
+      "ruc": "20589955169",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin el consentimiento libre, previo, informado, expreso e inequívoco",
+      "base_legal": "Artículos 13.5 y 18 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1.1,
+      "multa_final_uit": 16.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "2949-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "138-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-02-03",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "CINEPLEX S.A.",
+      "nombre_comercial": "CINEPLEX",
+      "ruc": "20434073507",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin el consentimiento libre, previo, informado, expreso e inequívoco",
+      "base_legal": "Artículos 13.5 y 18 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1.1,
+      "multa_final_uit": 16.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "2206-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "134-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-02-03",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "SKT CONSULTORES S.A.C.",
+      "nombre_comercial": "SKT",
+      "ruc": "20636924127",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscribir el banco de datos personales ante el Registro Nacional de Protección de Datos Personales",
+      "base_legal": "Artículo 31 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 2.1
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "786-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "027-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-02-01",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "GOOGLE LLC",
+      "nombre_comercial": "GOOGLE",
+      "ruc": "20797652723",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin el consentimiento libre, previo, informado, expreso e inequívoco",
+      "base_legal": "Artículos 13.5 y 18 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 10.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "250-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "085-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-01-31",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "MAPFRE PERÚ COMPAÑÍA DE SEGUROS Y REASEGUROS",
+      "nombre_comercial": "MAPFRE",
+      "ruc": "20629966508",
+      "sector": "Seguros"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia internacional de datos personales sin las garantías adecuadas",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 20.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 12.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "246-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "046-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-01-31",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "MIBANCO – BANCO DE LA MICROEMPRESA S.A.",
+      "nombre_comercial": "MIBANCO",
+      "ruc": "20745527720",
+      "sector": "Banca"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscribir el banco de datos personales ante el Registro Nacional de Protección de Datos Personales",
+      "base_legal": "Artículo 31 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 2.1
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión administrativa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "124-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "050-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-01-22",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "AFP INTEGRA S.A.",
+      "nombre_comercial": "AFP",
+      "ruc": "20452528189",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscribir el banco de datos personales ante el Registro Nacional de Protección de Datos Personales",
+      "base_legal": "Artículo 31 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.5,
+      "multa_final_uit": 1.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "3812-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "003-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-01-17",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "AL PUNTO MARKETING S.A.C.",
+      "nombre_comercial": "AL",
+      "ruc": "20438875323",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscribir el banco de datos personales ante el Registro Nacional de Protección de Datos Personales",
+      "base_legal": "Artículo 31 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 2.1
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "3575-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "015-2021-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-01-13",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "PODER JUDICIAL",
+      "nombre_comercial": "PODER",
+      "ruc": "20492999160",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin el consentimiento libre, previo, informado, expreso e inequívoco",
+      "base_legal": "Artículos 13.5 y 18 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 10.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "2990-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "093-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-01-13",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "COLEGIO PARROQUIAL SANTA MARIA DE CERVELLO",
+      "nombre_comercial": "COLEGIO",
+      "ruc": "20657305989",
+      "sector": "Educación"
+    },
+    "analisis_legal": {
+      "infraccion": "No atender de forma oportuna o denegar injustificadamente las solicitudes de ejercicio de derechos ARCO",
+      "base_legal": "Artículo 24 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 5.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.5,
+      "multa_final_uit": 2.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión administrativa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "2691-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "004-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-01-13",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "I.E.S.T.P. LUIS PASTEUR E.I.R.L.",
+      "nombre_comercial": "I.E.S.T.P.",
+      "ruc": "20263910691",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscribir el banco de datos personales ante el Registro Nacional de Protección de Datos Personales",
+      "base_legal": "Artículo 31 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 2.4
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "4642-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "074-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-12-26",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "ENTEL PERÚ S.A.",
+      "nombre_comercial": "ENTEL",
+      "ruc": "20848135952",
+      "sector": "Telecomunicaciones"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia internacional de datos personales sin las garantías adecuadas",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 20.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 12.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "GEN-24-2024",
+      "nro_expediente": "094-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-12-02",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "DIRECTV PERÚ S.R.L.",
+      "nombre_comercial": "DIRECTV",
+      "ruc": "20203988404",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscribir el banco de datos personales ante el Registro Nacional de Protección de Datos Personales",
+      "base_legal": "Artículo 31 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1,
+      "multa_final_uit": 3.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "GEN-25-2024",
+      "nro_expediente": "034-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-12-02",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "GEINSE S.A.C.",
+      "nombre_comercial": "GEINSE",
+      "ruc": "20750125775",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia internacional de datos personales sin las garantías adecuadas",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 20.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 14.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión administrativa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "2629-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "016-2021-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-12-02",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "MUNICIPALIDAD DISTRITAL DE LA VICTORIA",
+      "nombre_comercial": "MUNICIPALIDAD",
+      "ruc": "20348359310",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscribir el banco de datos personales ante el Registro Nacional de Protección de Datos Personales",
+      "base_legal": "Artículo 31 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1,
+      "multa_final_uit": 3.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "2993-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "062-2020-JUS/DPDP-PAS",
+      "fecha_emision": "2024-12-02",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "MUNICIPALIDAD DISTRITAL DE MIRAFLORES.",
+      "nombre_comercial": "MUNICIPALIDAD",
+      "ruc": "20919526313",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Incumplimiento del deber de seguridad en el tratamiento de datos personales",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 25.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 20.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión administrativa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "4249-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "090-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-11-29",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "PERSONA NATURAL",
+      "nombre_comercial": "PERSONA",
+      "ruc": "20778814517",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin el consentimiento libre, previo, informado, expreso e inequívoco",
+      "base_legal": "Artículos 13.5 y 18 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 12.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "2633-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "231-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-11-28",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "GRUPO LA REPUBLICA PUBLICACIONES S.A.",
+      "nombre_comercial": "GRUPO",
+      "ruc": "20981266961",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No atender de forma oportuna o denegar injustificadamente las solicitudes de ejercicio de derechos ARCO",
+      "base_legal": "Artículo 24 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 5.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 3.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "2953-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "155-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-11-28",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "UNIBELL S.A.C.",
+      "nombre_comercial": "UNIBELL",
+      "ruc": "20201213764",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No atender de forma oportuna o denegar injustificadamente las solicitudes de ejercicio de derechos ARCO",
+      "base_legal": "Artículo 24 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 5.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 3.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "3644-2021-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "172-2019-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-11-28",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "COMPLEJO EDUCATIVO CABRERA",
+      "nombre_comercial": "COMPLEJO",
+      "ruc": "20411227854",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscribir el banco de datos personales ante el Registro Nacional de Protección de Datos Personales",
+      "base_legal": "Artículo 31 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1.1,
+      "multa_final_uit": 3.3
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "865-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "160-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-11-27",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "PROMOTORA ASISTENCIAL CLÍNICA LIMATAMBO",
+      "nombre_comercial": "PROMOTORA",
+      "ruc": "20884623329",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Incumplimiento del deber de seguridad en el tratamiento de datos personales",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 25.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1,
+      "multa_final_uit": 25.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión administrativa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "3291-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "049-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-11-27",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "CLINICA INTERNACIONAL S.A.",
+      "nombre_comercial": "CLINICA",
+      "ruc": "20431702473",
+      "sector": "Salud"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia internacional de datos personales sin las garantías adecuadas",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 20.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.9,
+      "multa_final_uit": 18.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "2234-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "006-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-11-27",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "SOS MEDICAL GROUP",
+      "nombre_comercial": "SOS",
+      "ruc": "20860592155",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No atender de forma oportuna o denegar injustificadamente las solicitudes de ejercicio de derechos ARCO",
+      "base_legal": "Artículo 24 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 5.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.5,
+      "multa_final_uit": 2.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "4010-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "055-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-11-20",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "MIBANCO – BANCO DE LA MICROEMPRESA S.A.",
+      "nombre_comercial": "MIBANCO",
+      "ruc": "20916936180",
+      "sector": "Banca"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia internacional de datos personales sin las garantías adecuadas",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 20.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 14.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "GEN-36-2024",
+      "nro_expediente": "023-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-11-18",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "TELEFÓNICA DEL PERÚ S.A.A.",
+      "nombre_comercial": "TELEFÓNICA",
+      "ruc": "20617127010",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscribir el banco de datos personales ante el Registro Nacional de Protección de Datos Personales",
+      "base_legal": "Artículo 31 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 1.8
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "3900-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "129-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-11-08",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "AMÉRICA MÓVIL PERÚ S.A.C.",
+      "nombre_comercial": "AMÉRICA",
+      "ruc": "20887628774",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin el consentimiento libre, previo, informado, expreso e inequívoco",
+      "base_legal": "Artículos 13.5 y 18 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 10.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "3848-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "143-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-31",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "DINERS CLUB PERÚ S.A.",
+      "nombre_comercial": "DINERS",
+      "ruc": "20597020325",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Incumplimiento del deber de seguridad en el tratamiento de datos personales",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 25.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 15.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "3843-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "141-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-31",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "PRIMA AFP S.A.",
+      "nombre_comercial": "PRIMA",
+      "ruc": "20404878102",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscribir el banco de datos personales ante el Registro Nacional de Protección de Datos Personales",
+      "base_legal": "Artículo 31 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 2.1
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "057-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "004-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-28",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EL MESÓN S.R.L.",
+      "nombre_comercial": "EL",
+      "ruc": "20110473539",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Incumplimiento del deber de seguridad en el tratamiento de datos personales",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 25.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.9,
+      "multa_final_uit": 22.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "3440-2021-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "066-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-28",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA DE BIENES Y SERVICIOS PARA EL HOGAR S.A.C.",
+      "nombre_comercial": "EMPRESA",
+      "ruc": "20510621185",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin el consentimiento libre, previo, informado, expreso e inequívoco",
+      "base_legal": "Artículos 13.5 y 18 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 12.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1253-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "042-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-28",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "TAI LOY S.A.",
+      "nombre_comercial": "TAI",
+      "ruc": "20694232275",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia internacional de datos personales sin las garantías adecuadas",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 20.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1,
+      "multa_final_uit": 20.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1426-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "121-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-25",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "HERBALIFE PERU S.R.L.",
+      "nombre_comercial": "HERBALIFE",
+      "ruc": "20103429607",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin el consentimiento libre, previo, informado, expreso e inequívoco",
+      "base_legal": "Artículos 13.5 y 18 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 12.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1656-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "088-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-25",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "COOPERATIVA DE SERVICIOS MULTIPLES APAES",
+      "nombre_comercial": "COOPERATIVA",
+      "ruc": "20492732106",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Incumplimiento del deber de seguridad en el tratamiento de datos personales",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 25.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.9,
+      "multa_final_uit": 22.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "3194-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "151-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-24",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "CORPORACIÓN HEVICA S.A.C.",
+      "nombre_comercial": "CORPORACIÓN",
+      "ruc": "20421830939",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Incumplimiento del deber de seguridad en el tratamiento de datos personales",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 25.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.6",
+        "descripcion": "Colaboración activa",
+        "impacto_porcentaje": -0.2
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 15.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "114-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "048-2020-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-24",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "RAPPI S.A.C.",
+      "nombre_comercial": "RAPPI",
+      "ruc": "20662437245",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscribir el banco de datos personales ante el Registro Nacional de Protección de Datos Personales",
+      "base_legal": "Artículo 31 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1.1,
+      "multa_final_uit": 3.3
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1075-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "159-2019-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-24",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "Hospital Nacional Docente Madre Niño San Bartolomé",
+      "nombre_comercial": "Hospital",
+      "ruc": "20362550601",
+      "sector": "Salud"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin el consentimiento libre, previo, informado, expreso e inequívoco",
+      "base_legal": "Artículos 13.5 y 18 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1,
+      "multa_final_uit": 15.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Deficiencia en políticas",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1161-2022-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "150-2019-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-24",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "SOCIEDAD DE BENEFICIENCIA DE LIMA METROPOLITANA",
+      "nombre_comercial": "SOCIEDAD",
+      "ruc": "20334286332",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "No atender de forma oportuna o denegar injustificadamente las solicitudes de ejercicio de derechos ARCO",
+      "base_legal": "Artículo 24 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 5.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 3.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión administrativa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "3482-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "140-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-09",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "ENTEL PERÚ S.A.",
+      "nombre_comercial": "ENTEL",
+      "ruc": "20603558416",
+      "sector": "Telecomunicaciones"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin el consentimiento libre, previo, informado, expreso e inequívoco",
+      "base_legal": "Artículos 13.5 y 18 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Riesgo o daño a los titulares de datos",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1.1,
+      "multa_final_uit": 16.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión administrativa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "GEN-50-2024",
+      "nro_expediente": "119-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-09",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "COMPUPALACE PERÚ S.A.",
+      "nombre_comercial": "COMPUPALACE",
+      "ruc": "20712468101",
+      "sector": "Otros"
+    },
+    "analisis_legal": {
+      "infraccion": "Incumplimiento del deber de seguridad en el tratamiento de datos personales",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 25.0,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No hay reincidencia",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1,
+      "multa_final_uit": 25.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla técnica",
+      "estado_verificacion": "Completado"
+    }
+  }
+]
