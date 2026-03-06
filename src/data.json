@@ -47020,5 +47020,3706 @@
       "causa_raiz": "Desconocimiento normativo",
       "estado_verificacion": "Completado"
     }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1001-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "051-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-09-03",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 1 S.A.C.",
+      "nombre_comercial": "NombreComercial 1",
+      "ruc": "20822135848",
+      "sector": "E-commerce"
+    },
+    "analisis_legal": {
+      "infraccion": "No implementar medidas de seguridad técnicas en base de datos",
+      "base_legal": "Artículo 9 de la Ley N° 29733",
+      "gravedad": "Muy Grave",
+      "monto_base_Mb_uit": 57.11,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 34.27
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Brecha de seguridad externa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1002-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "052-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-09-25",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 2 S.A.C.",
+      "nombre_comercial": "NombreComercial 2",
+      "ruc": "20576635277",
+      "sector": "Salud"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia de datos a terceros sin informar al titular",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 18.2,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 10.92
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Brecha de seguridad externa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1003-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "053-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-02-10",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 3 S.A.C.",
+      "nombre_comercial": "NombreComercial 3",
+      "ruc": "20074489104",
+      "sector": "E-commerce"
+    },
+    "analisis_legal": {
+      "infraccion": "Obstaculización del ejercicio de derechos de acceso y rectificación",
+      "base_legal": "Artículo 18 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 8.18,
+      "beneficio_ilicito": "S/ 11021"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 4.91
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1004-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "054-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-01-07",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 4 S.A.C.",
+      "nombre_comercial": "NombreComercial 4",
+      "ruc": "20884313029",
+      "sector": "Telecomunicaciones"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia de datos a terceros sin informar al titular",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 19.62,
+      "beneficio_ilicito": "S/ 13106"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 13.73
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Brecha de seguridad externa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1005-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "055-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-07-08",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 5 S.A.C.",
+      "nombre_comercial": "NombreComercial 5",
+      "ruc": "20603079740",
+      "sector": "Telecomunicaciones"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia de datos a terceros sin informar al titular",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 18.55,
+      "beneficio_ilicito": "S/ 5649"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 14.84
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación del personal",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1006-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "056-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-03-19",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 6 S.A.C.",
+      "nombre_comercial": "NombreComercial 6",
+      "ruc": "20260380228",
+      "sector": "Turismo"
+    },
+    "analisis_legal": {
+      "infraccion": "No implementar medidas de seguridad técnicas en base de datos",
+      "base_legal": "Artículo 9 de la Ley N° 29733",
+      "gravedad": "Muy Grave",
+      "monto_base_Mb_uit": 56.44,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1.0,
+      "multa_final_uit": 56.44
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla en el sistema de validación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1007-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "057-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-11-13",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 7 S.A.C.",
+      "nombre_comercial": "NombreComercial 7",
+      "ruc": "20137033522",
+      "sector": "Seguros"
+    },
+    "analisis_legal": {
+      "infraccion": "Obstaculización del ejercicio de derechos de acceso y rectificación",
+      "base_legal": "Artículo 18 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 5.42,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.9,
+      "multa_final_uit": 4.88
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1008-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "058-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-10-24",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 8 S.A.C.",
+      "nombre_comercial": "NombreComercial 8",
+      "ruc": "20204708512",
+      "sector": "Telecomunicaciones"
+    },
+    "analisis_legal": {
+      "infraccion": "Recopilación de datos sensibles sin consentimiento por escrito",
+      "base_legal": "Artículo 13.2 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 23.29,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.9,
+      "multa_final_uit": 20.96
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1009-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "059-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-04-12",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 9 S.A.C.",
+      "nombre_comercial": "NombreComercial 9",
+      "ruc": "20038175186",
+      "sector": "Turismo"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscripción de banco de datos de videovigilancia",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 2.94,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Afectación masiva de titulares de datos",
+        "impacto_porcentaje": 0.15
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.85,
+      "multa_final_uit": 2.5
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación del personal",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1010-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "060-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-04-13",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 10 S.A.C.",
+      "nombre_comercial": "NombreComercial 10",
+      "ruc": "20804375583",
+      "sector": "Telecomunicaciones"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia de datos a terceros sin informar al titular",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 20.83,
+      "beneficio_ilicito": "S/ 1007"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 14.58
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1011-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "061-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-04",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 11 S.A.C.",
+      "nombre_comercial": "NombreComercial 11",
+      "ruc": "20176792871",
+      "sector": "Transporte"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin consentimiento para fines de prospección comercial",
+      "base_legal": "Artículo 13.1 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 16.72,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Afectación masiva de titulares de datos",
+        "impacto_porcentaje": 0.15
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.85,
+      "multa_final_uit": 14.21
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación del personal",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1012-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "062-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-01-28",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 12 S.A.C.",
+      "nombre_comercial": "NombreComercial 12",
+      "ruc": "20568976015",
+      "sector": "Transporte"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin consentimiento para fines de prospección comercial",
+      "base_legal": "Artículo 13.1 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.77,
+      "beneficio_ilicito": "S/ 5923"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 11.04
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1013-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "063-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-11-24",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 13 S.A.C.",
+      "nombre_comercial": "NombreComercial 13",
+      "ruc": "20630636691",
+      "sector": "Turismo"
+    },
+    "analisis_legal": {
+      "infraccion": "No implementar medidas de seguridad técnicas en base de datos",
+      "base_legal": "Artículo 9 de la Ley N° 29733",
+      "gravedad": "Muy Grave",
+      "monto_base_Mb_uit": 59.31,
+      "beneficio_ilicito": "S/ 4833"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1.0,
+      "multa_final_uit": 59.31
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación del personal",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1014-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "064-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-11-04",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 14 S.A.C.",
+      "nombre_comercial": "NombreComercial 14",
+      "ruc": "20528829550",
+      "sector": "Educación"
+    },
+    "analisis_legal": {
+      "infraccion": "Recopilación de datos sensibles sin consentimiento por escrito",
+      "base_legal": "Artículo 13.2 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 22.89,
+      "beneficio_ilicito": "S/ 10657"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 13.73
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla en el sistema de validación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1015-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "065-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-12-07",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 15 S.A.C.",
+      "nombre_comercial": "NombreComercial 15",
+      "ruc": "20468861446",
+      "sector": "Seguros"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscripción de banco de datos de videovigilancia",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 6.02,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 4.21
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1016-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "066-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-12-08",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 16 S.A.C.",
+      "nombre_comercial": "NombreComercial 16",
+      "ruc": "20292097387",
+      "sector": "Seguros"
+    },
+    "analisis_legal": {
+      "infraccion": "Recopilación de datos sensibles sin consentimiento por escrito",
+      "base_legal": "Artículo 13.2 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 22.3,
+      "beneficio_ilicito": "S/ 2245"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Afectación masiva de titulares de datos",
+        "impacto_porcentaje": 0.15
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.75,
+      "multa_final_uit": 16.73
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Brecha de seguridad externa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1017-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "067-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-04-15",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 17 S.A.C.",
+      "nombre_comercial": "NombreComercial 17",
+      "ruc": "20267363766",
+      "sector": "E-commerce"
+    },
+    "analisis_legal": {
+      "infraccion": "Obstaculización del ejercicio de derechos de acceso y rectificación",
+      "base_legal": "Artículo 18 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 7.02,
+      "beneficio_ilicito": "S/ 16203"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.9,
+      "multa_final_uit": 6.32
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1018-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "068-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-06-04",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 18 S.A.C.",
+      "nombre_comercial": "NombreComercial 18",
+      "ruc": "20624559920",
+      "sector": "E-commerce"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin consentimiento para fines de prospección comercial",
+      "base_legal": "Artículo 13.1 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.58,
+      "beneficio_ilicito": "S/ 4772"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 9.35
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla en el sistema de validación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1019-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "069-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-06-09",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 19 S.A.C.",
+      "nombre_comercial": "NombreComercial 19",
+      "ruc": "20733688438",
+      "sector": "Seguros"
+    },
+    "analisis_legal": {
+      "infraccion": "No implementar medidas de seguridad técnicas en base de datos",
+      "base_legal": "Artículo 9 de la Ley N° 29733",
+      "gravedad": "Muy Grave",
+      "monto_base_Mb_uit": 59.88,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 35.93
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1020-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "070-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-01-12",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 20 S.A.C.",
+      "nombre_comercial": "NombreComercial 20",
+      "ruc": "20673495130",
+      "sector": "Salud"
+    },
+    "analisis_legal": {
+      "infraccion": "Obstaculización del ejercicio de derechos de acceso y rectificación",
+      "base_legal": "Artículo 18 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 4.84,
+      "beneficio_ilicito": "S/ 18879"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 2.9
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1021-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "071-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-12-09",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 21 S.A.C.",
+      "nombre_comercial": "NombreComercial 21",
+      "ruc": "20993485947",
+      "sector": "Turismo"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin consentimiento para fines de prospección comercial",
+      "base_legal": "Artículo 13.1 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 18.36,
+      "beneficio_ilicito": "S/ 2488"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Afectación masiva de titulares de datos",
+        "impacto_porcentaje": 0.15
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.75,
+      "multa_final_uit": 13.77
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación del personal",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1022-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "072-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-03-04",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 22 S.A.C.",
+      "nombre_comercial": "NombreComercial 22",
+      "ruc": "20094826931",
+      "sector": "Seguros"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscripción de banco de datos de videovigilancia",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 4.5600000000000005,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 2.74
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1023-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "073-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-09-15",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 23 S.A.C.",
+      "nombre_comercial": "NombreComercial 23",
+      "ruc": "20934904967",
+      "sector": "E-commerce"
+    },
+    "analisis_legal": {
+      "infraccion": "No implementar medidas de seguridad técnicas en base de datos",
+      "base_legal": "Artículo 9 de la Ley N° 29733",
+      "gravedad": "Muy Grave",
+      "monto_base_Mb_uit": 57.31,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Afectación masiva de titulares de datos",
+        "impacto_porcentaje": 0.15
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.85,
+      "multa_final_uit": 48.71
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Brecha de seguridad externa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1024-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "074-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-05-22",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 24 S.A.C.",
+      "nombre_comercial": "NombreComercial 24",
+      "ruc": "20494302487",
+      "sector": "Banca"
+    },
+    "analisis_legal": {
+      "infraccion": "No implementar medidas de seguridad técnicas en base de datos",
+      "base_legal": "Artículo 9 de la Ley N° 29733",
+      "gravedad": "Muy Grave",
+      "monto_base_Mb_uit": 57.01,
+      "beneficio_ilicito": "S/ 6380"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Afectación masiva de titulares de datos",
+        "impacto_porcentaje": 0.15
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.75,
+      "multa_final_uit": 42.76
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla en el sistema de validación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1025-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "075-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-05-09",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 25 S.A.C.",
+      "nombre_comercial": "NombreComercial 25",
+      "ruc": "20767796819",
+      "sector": "Transporte"
+    },
+    "analisis_legal": {
+      "infraccion": "Recopilación de datos sensibles sin consentimiento por escrito",
+      "base_legal": "Artículo 13.2 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 20.62,
+      "beneficio_ilicito": "S/ 2240"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Afectación masiva de titulares de datos",
+        "impacto_porcentaje": 0.15
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.75,
+      "multa_final_uit": 15.46
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1026-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "076-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-07-05",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 26 S.A.C.",
+      "nombre_comercial": "NombreComercial 26",
+      "ruc": "20704399016",
+      "sector": "Telecomunicaciones"
+    },
+    "analisis_legal": {
+      "infraccion": "Recopilación de datos sensibles sin consentimiento por escrito",
+      "base_legal": "Artículo 13.2 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 22.38,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 13.43
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla en el sistema de validación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1027-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "077-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-09-27",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 27 S.A.C.",
+      "nombre_comercial": "NombreComercial 27",
+      "ruc": "20806432131",
+      "sector": "Telecomunicaciones"
+    },
+    "analisis_legal": {
+      "infraccion": "No implementar medidas de seguridad técnicas en base de datos",
+      "base_legal": "Artículo 9 de la Ley N° 29733",
+      "gravedad": "Muy Grave",
+      "monto_base_Mb_uit": 59.17,
+      "beneficio_ilicito": "S/ 19618"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 41.42
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1028-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "078-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-10-27",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 28 S.A.C.",
+      "nombre_comercial": "NombreComercial 28",
+      "ruc": "20005190355",
+      "sector": "Salud"
+    },
+    "analisis_legal": {
+      "infraccion": "No implementar medidas de seguridad técnicas en base de datos",
+      "base_legal": "Artículo 9 de la Ley N° 29733",
+      "gravedad": "Muy Grave",
+      "monto_base_Mb_uit": 56.19,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1.0,
+      "multa_final_uit": 56.19
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1029-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "079-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-12-14",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 29 S.A.C.",
+      "nombre_comercial": "NombreComercial 29",
+      "ruc": "20536533269",
+      "sector": "E-commerce"
+    },
+    "analisis_legal": {
+      "infraccion": "Obstaculización del ejercicio de derechos de acceso y rectificación",
+      "base_legal": "Artículo 18 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 8.92,
+      "beneficio_ilicito": "S/ 16147"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 7.14
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación del personal",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1030-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "080-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-09-28",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 30 S.A.C.",
+      "nombre_comercial": "NombreComercial 30",
+      "ruc": "20860252061",
+      "sector": "Telecomunicaciones"
+    },
+    "analisis_legal": {
+      "infraccion": "Obstaculización del ejercicio de derechos de acceso y rectificación",
+      "base_legal": "Artículo 18 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 4.04,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 2.42
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Brecha de seguridad externa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1031-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "081-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-01-08",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 31 S.A.C.",
+      "nombre_comercial": "NombreComercial 31",
+      "ruc": "20318215313",
+      "sector": "Banca"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscripción de banco de datos de videovigilancia",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.88,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 2.72
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Brecha de seguridad externa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1032-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "082-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-03-24",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 32 S.A.C.",
+      "nombre_comercial": "NombreComercial 32",
+      "ruc": "20651792859",
+      "sector": "Telecomunicaciones"
+    },
+    "analisis_legal": {
+      "infraccion": "No implementar medidas de seguridad técnicas en base de datos",
+      "base_legal": "Artículo 9 de la Ley N° 29733",
+      "gravedad": "Muy Grave",
+      "monto_base_Mb_uit": 56.84,
+      "beneficio_ilicito": "S/ 12336"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 34.1
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1033-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "083-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-05-05",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 33 S.A.C.",
+      "nombre_comercial": "NombreComercial 33",
+      "ruc": "20685394925",
+      "sector": "Seguros"
+    },
+    "analisis_legal": {
+      "infraccion": "No implementar medidas de seguridad técnicas en base de datos",
+      "base_legal": "Artículo 9 de la Ley N° 29733",
+      "gravedad": "Muy Grave",
+      "monto_base_Mb_uit": 55.96,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.9,
+      "multa_final_uit": 50.36
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1034-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "084-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-11-23",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 34 S.A.C.",
+      "nombre_comercial": "NombreComercial 34",
+      "ruc": "20199637067",
+      "sector": "Salud"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscripción de banco de datos de videovigilancia",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.25,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.9,
+      "multa_final_uit": 2.93
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación del personal",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1035-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "085-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-02-03",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 35 S.A.C.",
+      "nombre_comercial": "NombreComercial 35",
+      "ruc": "20003302541",
+      "sector": "Banca"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin consentimiento para fines de prospección comercial",
+      "base_legal": "Artículo 13.1 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 19.02,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 13.31
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Brecha de seguridad externa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1036-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "086-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-04-12",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 36 S.A.C.",
+      "nombre_comercial": "NombreComercial 36",
+      "ruc": "20349154737",
+      "sector": "Transporte"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscripción de banco de datos de videovigilancia",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 2.69,
+      "beneficio_ilicito": "S/ 18356"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 2.15
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Brecha de seguridad externa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1037-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "087-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-01-15",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 37 S.A.C.",
+      "nombre_comercial": "NombreComercial 37",
+      "ruc": "20280425159",
+      "sector": "Salud"
+    },
+    "analisis_legal": {
+      "infraccion": "No implementar medidas de seguridad técnicas en base de datos",
+      "base_legal": "Artículo 9 de la Ley N° 29733",
+      "gravedad": "Muy Grave",
+      "monto_base_Mb_uit": 59.44,
+      "beneficio_ilicito": "S/ 12395"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 47.55
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1038-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "088-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-02-01",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 38 S.A.C.",
+      "nombre_comercial": "NombreComercial 38",
+      "ruc": "20793172035",
+      "sector": "Educación"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin consentimiento para fines de prospección comercial",
+      "base_legal": "Artículo 13.1 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.08,
+      "beneficio_ilicito": "S/ 10483"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Afectación masiva de titulares de datos",
+        "impacto_porcentaje": 0.15
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1.05,
+      "multa_final_uit": 15.83
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla en el sistema de validación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1039-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "089-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-02-27",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 39 S.A.C.",
+      "nombre_comercial": "NombreComercial 39",
+      "ruc": "20928181729",
+      "sector": "Retail"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscripción de banco de datos de videovigilancia",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.6,
+      "beneficio_ilicito": "S/ 1882"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 2.16
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla en el sistema de validación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1040-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "090-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-01-25",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 40 S.A.C.",
+      "nombre_comercial": "NombreComercial 40",
+      "ruc": "20592072256",
+      "sector": "Salud"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscripción de banco de datos de videovigilancia",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 6.73,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 4.71
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1041-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "091-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-12-08",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 41 S.A.C.",
+      "nombre_comercial": "NombreComercial 41",
+      "ruc": "20531799783",
+      "sector": "Retail"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscripción de banco de datos de videovigilancia",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 6.0,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 3.6
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla en el sistema de validación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1042-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "092-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-12-20",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 42 S.A.C.",
+      "nombre_comercial": "NombreComercial 42",
+      "ruc": "20761458506",
+      "sector": "Turismo"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscripción de banco de datos de videovigilancia",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 3.46,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Afectación masiva de titulares de datos",
+        "impacto_porcentaje": 0.15
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.75,
+      "multa_final_uit": 2.59
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Brecha de seguridad externa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1043-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "093-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-10-03",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 43 S.A.C.",
+      "nombre_comercial": "NombreComercial 43",
+      "ruc": "20134240638",
+      "sector": "Retail"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin consentimiento para fines de prospección comercial",
+      "base_legal": "Artículo 13.1 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 19.96,
+      "beneficio_ilicito": "S/ 4375"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.9,
+      "multa_final_uit": 17.96
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla en el sistema de validación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1044-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "094-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-12-27",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 44 S.A.C.",
+      "nombre_comercial": "NombreComercial 44",
+      "ruc": "20157710454",
+      "sector": "E-commerce"
+    },
+    "analisis_legal": {
+      "infraccion": "Recopilación de datos sensibles sin consentimiento por escrito",
+      "base_legal": "Artículo 13.2 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 24.18,
+      "beneficio_ilicito": "S/ 6527"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 16.93
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1045-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "095-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-09-28",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 45 S.A.C.",
+      "nombre_comercial": "NombreComercial 45",
+      "ruc": "20133487241",
+      "sector": "Salud"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin consentimiento para fines de prospección comercial",
+      "base_legal": "Artículo 13.1 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 17.39,
+      "beneficio_ilicito": "S/ 11372"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 12.17
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1046-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "096-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-11-24",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 46 S.A.C.",
+      "nombre_comercial": "NombreComercial 46",
+      "ruc": "20208175262",
+      "sector": "E-commerce"
+    },
+    "analisis_legal": {
+      "infraccion": "Recopilación de datos sensibles sin consentimiento por escrito",
+      "base_legal": "Artículo 13.2 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 22.87,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Afectación masiva de titulares de datos",
+        "impacto_porcentaje": 0.15
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.75,
+      "multa_final_uit": 17.15
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1047-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "097-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-07-04",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 47 S.A.C.",
+      "nombre_comercial": "NombreComercial 47",
+      "ruc": "20021416561",
+      "sector": "E-commerce"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia de datos a terceros sin informar al titular",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 21.79,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 15.25
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1048-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "098-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-02-04",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 48 S.A.C.",
+      "nombre_comercial": "NombreComercial 48",
+      "ruc": "20383081441",
+      "sector": "E-commerce"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia de datos a terceros sin informar al titular",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 20.509999999999998,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1.0,
+      "multa_final_uit": 20.51
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1049-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "099-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-06-14",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 49 S.A.C.",
+      "nombre_comercial": "NombreComercial 49",
+      "ruc": "20796628722",
+      "sector": "Telecomunicaciones"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscripción de banco de datos de videovigilancia",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 7.01,
+      "beneficio_ilicito": "S/ 14407"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 4.91
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1050-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "100-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-04-14",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 50 S.A.C.",
+      "nombre_comercial": "NombreComercial 50",
+      "ruc": "20347743131",
+      "sector": "Telecomunicaciones"
+    },
+    "analisis_legal": {
+      "infraccion": "Recopilación de datos sensibles sin consentimiento por escrito",
+      "base_legal": "Artículo 13.2 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 22.97,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.9,
+      "multa_final_uit": 20.67
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación del personal",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1051-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "101-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-03-10",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 51 S.A.C.",
+      "nombre_comercial": "NombreComercial 51",
+      "ruc": "20336231692",
+      "sector": "Retail"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin consentimiento para fines de prospección comercial",
+      "base_legal": "Artículo 13.1 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 18.57,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 11.14
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falta de capacitación del personal",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1052-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "102-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-07-18",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 52 S.A.C.",
+      "nombre_comercial": "NombreComercial 52",
+      "ruc": "20778070394",
+      "sector": "Turismo"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin consentimiento para fines de prospección comercial",
+      "base_legal": "Artículo 13.1 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 17.009999999999998,
+      "beneficio_ilicito": "S/ 13937"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 11.91
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Brecha de seguridad externa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1053-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "103-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-07-15",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 53 S.A.C.",
+      "nombre_comercial": "NombreComercial 53",
+      "ruc": "20613425187",
+      "sector": "Transporte"
+    },
+    "analisis_legal": {
+      "infraccion": "Recopilación de datos sensibles sin consentimiento por escrito",
+      "base_legal": "Artículo 13.2 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 22.15,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1.0,
+      "multa_final_uit": 22.15
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1054-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "104-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-11-15",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 54 S.A.C.",
+      "nombre_comercial": "NombreComercial 54",
+      "ruc": "20814717816",
+      "sector": "Transporte"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin consentimiento para fines de prospección comercial",
+      "base_legal": "Artículo 13.1 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 18.52,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 11.11
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1055-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "105-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-11-09",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 55 S.A.C.",
+      "nombre_comercial": "NombreComercial 55",
+      "ruc": "20003020053",
+      "sector": "Seguros"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia de datos a terceros sin informar al titular",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 20.45,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1.0,
+      "multa_final_uit": 20.45
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla en el sistema de validación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1056-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "106-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-04-28",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 56 S.A.C.",
+      "nombre_comercial": "NombreComercial 56",
+      "ruc": "20189063176",
+      "sector": "Turismo"
+    },
+    "analisis_legal": {
+      "infraccion": "No inscripción de banco de datos de videovigilancia",
+      "base_legal": "Artículo 28 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 5.33,
+      "beneficio_ilicito": "S/ 16270"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.1",
+        "descripcion": "Afectación masiva de titulares de datos",
+        "impacto_porcentaje": 0.15
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.75,
+      "multa_final_uit": 4.0
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Falla en el sistema de validación",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1057-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "107-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-09-05",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 57 S.A.C.",
+      "nombre_comercial": "NombreComercial 57",
+      "ruc": "20711681488",
+      "sector": "Educación"
+    },
+    "analisis_legal": {
+      "infraccion": "Recopilación de datos sensibles sin consentimiento por escrito",
+      "base_legal": "Artículo 13.2 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 22.36,
+      "beneficio_ilicito": "S/ 10757"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 13.42
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1058-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "108-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-08-11",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 58 S.A.C.",
+      "nombre_comercial": "NombreComercial 58",
+      "ruc": "20545978789",
+      "sector": "Transporte"
+    },
+    "analisis_legal": {
+      "infraccion": "Obstaculización del ejercicio de derechos de acceso y rectificación",
+      "base_legal": "Artículo 18 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 4.98,
+      "beneficio_ilicito": "S/ 12203"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 2.99
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1059-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "109-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-11-13",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 59 S.A.C.",
+      "nombre_comercial": "NombreComercial 59",
+      "ruc": "20469564034",
+      "sector": "Banca"
+    },
+    "analisis_legal": {
+      "infraccion": "Recopilación de datos sensibles sin consentimiento por escrito",
+      "base_legal": "Artículo 13.2 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 22.16,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.8,
+      "multa_final_uit": 17.73
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Brecha de seguridad externa",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1060-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "110-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-04-27",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 60 S.A.C.",
+      "nombre_comercial": "NombreComercial 60",
+      "ruc": "20194105192",
+      "sector": "Seguros"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin consentimiento para fines de prospección comercial",
+      "base_legal": "Artículo 13.1 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 16.35,
+      "beneficio_ilicito": "No existe"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      },
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 11.45
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1061-2025-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "111-2024-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2025-06-17",
+      "año_uit_referencia": 2024
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 61 S.A.C.",
+      "nombre_comercial": "NombreComercial 61",
+      "ruc": "20361138371",
+      "sector": "Salud"
+    },
+    "analisis_legal": {
+      "infraccion": "Obstaculización del ejercicio de derechos de acceso y rectificación",
+      "base_legal": "Artículo 18 de la Ley N° 29733",
+      "gravedad": "Leve",
+      "monto_base_Mb_uit": 5.46,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      },
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.6,
+      "multa_final_uit": 3.28
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Omisión de control administrativo",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1062-2023-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "112-2022-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2023-12-08",
+      "año_uit_referencia": 2022
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 62 S.A.C.",
+      "nombre_comercial": "NombreComercial 62",
+      "ruc": "20377378802",
+      "sector": "Transporte"
+    },
+    "analisis_legal": {
+      "infraccion": "Transferencia de datos a terceros sin informar al titular",
+      "base_legal": "Artículo 15 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 20.78,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [
+      {
+        "codigo": "f3.2",
+        "descripcion": "Continuidad de la conducta infractora",
+        "impacto_porcentaje": 0.1
+      }
+    ],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.8",
+        "descripcion": "Cese de la conducta infractora antes del inicio del PAS",
+        "impacto_porcentaje": -0.1
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 1.0,
+      "multa_final_uit": 20.78
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
+  },
+  {
+    "resolucion_metadata": {
+      "id_resolucion": "1063-2024-JUS/DGTAIPD-DPDP",
+      "nro_expediente": "113-2023-JUS/DGTAIPD-PAS",
+      "fecha_emision": "2024-09-10",
+      "año_uit_referencia": 2023
+    },
+    "entidad_sancionada": {
+      "razon_social": "EMPRESA FICTICIA 63 S.A.C.",
+      "nombre_comercial": "NombreComercial 63",
+      "ruc": "20422995180",
+      "sector": "Turismo"
+    },
+    "analisis_legal": {
+      "infraccion": "Tratamiento de datos personales sin consentimiento para fines de prospección comercial",
+      "base_legal": "Artículo 13.1 de la Ley N° 29733",
+      "gravedad": "Grave",
+      "monto_base_Mb_uit": 15.02,
+      "beneficio_ilicito": "Indeterminable"
+    },
+    "factores_agravantes": [],
+    "factores_atenuantes": [
+      {
+        "codigo": "f3.7",
+        "descripcion": "Reconocimiento de responsabilidad expreso y por escrito",
+        "impacto_porcentaje": -0.3
+      }
+    ],
+    "factores_neutros": [
+      {
+        "codigo": "f1",
+        "descripcion": "Perjuicio económico causado",
+        "estado": "No acreditado",
+        "valor": 0.0
+      },
+      {
+        "codigo": "f2",
+        "descripcion": "Reincidencia",
+        "estado": "No presenta",
+        "valor": 0.0
+      }
+    ],
+    "resultado_final": {
+      "formula": "Mb * (1 + Sumatoria de factores)",
+      "factor_F_final": 0.7,
+      "multa_final_uit": 10.51
+    },
+    "control_calidad": {
+      "revisado_humano": true,
+      "causa_raiz": "Error de configuración de servidor",
+      "estado_verificacion": "Completado"
+    }
   }
 ]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "entidad": "EMPRESA DE CRÉDITOS SANTANDER CONSUMO PERÚ",
+    "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "id": 2,
+    "entidad": "BANCO INTERNACIONAL DEL PERÚ S.A.A.",
+    "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "id": 3,
+    "entidad": "MUNICIPALIDAD DISTRITAL DE MIRAFLORES",
+    "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "id": 4,
+    "entidad": "ALFIN BANCO S.A.",
+    "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "id": 5,
+    "entidad": "AMÉRICA MÓVIL PERÚ S.A.C.",
+    "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "id": 6,
+    "entidad": "SOCIEDAD HOTELERA DEL SUR",
+    "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "id": 7,
+    "entidad": "CPR JOYAS Y RELOJES",
+    "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "id": 8,
+    "entidad": "INDECOPI",
+    "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "id": 9,
+    "entidad": "NEW HORIZONS S.A.",
+    "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "id": 10,
+    "entidad": "MOTORLINK S.A.C.",
+    "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  }
+]

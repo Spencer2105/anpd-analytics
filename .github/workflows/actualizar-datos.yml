@@ -1,0 +1,37 @@
+name: Actualizar datos ANPD
+
+on:
+  schedule:
+    - cron: '0 6 */3 * *'  # cada 3 días a las 6am UTC
+  workflow_dispatch:        # permite ejecutarlo manualmente desde GitHub
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: |
+          pip install requests beautifulsoup4 schedule
+
+      - name: Ejecutar pipeline (solo scraping por ahora)
+        run: |
+          python pipeline.py --ahora
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+
+      - name: Subir data.json actualizado
+        run: |
+          git config --global user.name "spencer2105"
+          git config --global user.email "spencerlinares2105@gmail.com"
+          git add src/data.json
+          git diff --staged --quiet || git commit -m "data: actualización automática $(date +'%Y-%m-%d')"
+          git push
